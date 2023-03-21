@@ -16,6 +16,8 @@ Vi har en målsettning om å splitte opp modulene sån at man ikke drar inn mere
 ## Målsettninger
 Splitte opp avhengeiheter sån at man ikke må dra inn mere dependencys en det man trenger.
 
+Skal sette opp sån at issues i repoene havner i prosjekt bord
+
 ## Ansvar for repositorys
 poao-frontend  
 common-java-modules  
